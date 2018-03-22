@@ -2,7 +2,7 @@
  
   We have tried to cover maximum javascript interview questions possible - For Freshers and Experienced UI Developers
 
-## We will conver all question Topic wise in javscript.it will be good for fresher also.
+## We will cover all question Topic wise in javscript.it will be good for fresher also.
 
 ## Question 1. How will you create array in javscript and tell some operations with array. 
 
