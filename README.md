@@ -1,10 +1,6 @@
 # Core Javascript Interview Questions
  
   We have tried to cover maximum javascript interview questions possible - For Freshers and Experienced UI Developers
-  
-## Great news for all fresher and experienced who is looking new job and want to expert in javascript.Let's Start !
-   Gaurav Verma is author.He is working as Stack Developer. His skill Javscript, React js, css, Html, React Native,Python
-   Node js.Please contact for any doubts on gmail id - gauravverma029@gmail.com and always ready for new opportunity.
 
 ## We will conver all question Topic wise in javscript.it will be good for fresher also.
 
