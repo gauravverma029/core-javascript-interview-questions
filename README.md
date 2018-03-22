@@ -2,8 +2,6 @@
  
   We have tried to cover maximum javascript interview questions possible - For Freshers and Experienced UI Developers
 
-## We will cover all question Topic wise in javscript.it will be good for fresher also.
-
 ## Question 1. How will you create array in javscript and tell some operations with array. 
 
 > Now we are creating array
@@ -16,7 +14,7 @@ console.log(x); //output: [1, 2, 3, 5, 6]
 
 ```javascript
 x.forEach(function(item,index){
-	console.log(index,item) 
+ console.log(index,item) 
 })  
  
   output :- 
@@ -36,7 +34,7 @@ x.forEach(function(item,index){
 > Add element front of array
 
 ```javascript
- var last = x.shift(1) // [1,2,3,5,6]
+ var last = x.unshift(1) // [1,2,3,5,6]
  
 ```
 > 
