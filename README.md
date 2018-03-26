@@ -39,7 +39,7 @@ x.forEach(function(item,index){
 ```
 > 
 
-## Question 2. What is Classical Inheritance & OOP with JS?
+## Question 2. What is Classical Inheritance in javscript?
 
 ## Question 3. What is difference between async and defer?
 
