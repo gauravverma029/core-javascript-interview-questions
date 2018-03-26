@@ -90,7 +90,7 @@ var x = [5,6,4,2,3,7,3,4,5,7,7,3,2,1]; // Answer ?
 
 ## Question 23. What is Immediately Invoked Function (IIFE) in javscript?
 
-## Question 24. What is Immediately Invoked Function (IIFE) in javscript?
+## Question 24. What is "AMD" in javscript?
 
 ## Question 25. Explain Hoisting in javscript?
 
