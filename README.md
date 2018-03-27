@@ -107,3 +107,35 @@ var x = [5,6,4,2,3,7,3,4,5,7,7,3,2,1]; // Answer ?
 ## Question 31. What is difference between window and document?
 
 ## Question 32. What is difference between DOM and Virtual DOM?
+
+## Question 33. What is Memoization in javscript?
+
+## Question 33. How to setTimeout in Ajax Call?
+
+## Question 34. How can we call multiple ajax call in one time?
+
+## Question 35. what will be Output?
+
+> var x = 1+"1"+"1" // console.log(x)
+
+> var x = 1-"1"+"2" // console.log(x)
+
+> var x = +1-"1"+"1" // console.log(x)
+
+> var x = 1+ +"1"+"2" // console.log(x)
+
+> var x = "2"-"1"+"1" // console.log(x)
+
+## Question 36. Reverse String in javscript?
+
+> Var x = "TestJavascript";
+
+## Question 37. Reverse a string in javscript?
+
+> Var x = "TestJavascript"; //Output ?
+
+## Question 37. Reverse a string in javscript?
+
+> Var x = "TestJavascript"; //Output ?
+
+
